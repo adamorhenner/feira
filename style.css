@@ -72,6 +72,11 @@ nav a:hover {
 	font-weight: bold;
 }
 
+.img-produtos {
+	width: 150px;
+	margin-top: 10px;
+}
+
 .produto-descricao {
 	font-size: 18px;
 }
