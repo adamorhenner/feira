@@ -1,1 +1,2 @@
-## Estudos de HTML e CCS da formação FRONTEND alura
+## Atividade valendo pontuação
+- cadeira de Sistemas Multimidia
